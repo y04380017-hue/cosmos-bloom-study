@@ -1,0 +1,465 @@
+{
+  "calendula": {
+    "appearance": {
+      "shadow": "#f67d02",
+      "highlight": "#f2dd05",
+      "grooveStrength": 0.168,
+      "grooveCount": 3.5,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0.62
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.004,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#f9b10a",
+    "baseColor": "#edbf08",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#f2dd05"
+  },
+  "california-poppy": {
+    "appearance": {
+      "shadow": "#c86d01",
+      "highlight": "#da9701",
+      "grooveStrength": 0.108,
+      "grooveCount": 3,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.18,
+      "tipCurl": 0.1,
+      "twist": 0,
+      "fineFold": 0.0035,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#c58401",
+    "baseColor": "#c88a03",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#da9701"
+  },
+  "scarlet-flax": {
+    "appearance": {
+      "shadow": "#b30307",
+      "highlight": "#fe2b46",
+      "grooveStrength": 0.072,
+      "grooveCount": 3,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.00225,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#e41626",
+    "baseColor": "#510309",
+    "lighting": {
+      "key": [
+        4,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#fe2b46"
+  },
+  "kerria": {
+    "appearance": {
+      "shadow": "#efba17",
+      "highlight": "#fec71a",
+      "grooveStrength": 0.072,
+      "grooveCount": 3,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.003,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#f7c117",
+    "baseColor": "#e6b018",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#fec71a"
+  },
+  "long-headed-poppy": {
+    "appearance": {
+      "shadow": "#a72e03",
+      "highlight": "#fd8d51",
+      "grooveStrength": 0.156,
+      "grooveCount": 4.5,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.18,
+      "tipCurl": 0.1,
+      "twist": 0,
+      "fineFold": 0.00625,
+      "edgeRoll": 0.85,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#e95618",
+    "baseColor": "#69170e",
+    "lighting": {
+      "key": [
+        4,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#fd8d51"
+  },
+  "blanket-flower": {
+    "appearance": {
+      "shadow": "#a10208",
+      "highlight": "#fd5250",
+      "grooveStrength": 0.15,
+      "grooveCount": 4.5,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.005,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#e52832",
+    "baseColor": "#9d1225",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影"
+  },
+  "phlox": {
+    "appearance": {
+      "shadow": "#c4529a",
+      "highlight": "#f8d6f8",
+      "grooveStrength": 0.06,
+      "grooveCount": 3,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.0015,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.095
+    },
+    "color": "#f6d2f2",
+    "baseColor": "#b51b7a",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#ffe4fa",
+    "eye": 0.48
+  },
+  "spiraea": {
+    "appearance": {
+      "shadow": "#c9cdcd",
+      "highlight": "#e6eaee",
+      "grooveStrength": 0.048,
+      "grooveCount": 2,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.001,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.095
+    },
+    "color": "#f2f3f3",
+    "baseColor": "#d7dcc6",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#e6eaee"
+  },
+  "blue-flax": {
+    "appearance": {
+      "shadow": "#758be8",
+      "highlight": "#a9c0fe",
+      "grooveStrength": 0.15,
+      "grooveCount": 5,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.002,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#93aafa",
+    "baseColor": "#dce3fa",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#a9c0fe",
+    "veinColor": "#5c77c9"
+  },
+  "carnation": {
+    "appearance": {
+      "shadow": "#dd92e7",
+      "highlight": "#edb3f5",
+      "grooveStrength": 0.084,
+      "grooveCount": 4,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.115,
+      "tipCurl": 0.065,
+      "twist": 0,
+      "fineFold": 0.003,
+      "edgeRoll": 0.65,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#e89ff3",
+    "baseColor": "#efd3eb",
+    "lighting": {
+      "key": [
+        -3.5,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#edb3f5"
+  },
+  "rockrose": {
+    "appearance": {
+      "shadow": "#834b87",
+      "highlight": "#c596d0",
+      "grooveStrength": 0.18,
+      "grooveCount": 4.5,
+      "variation": 0.035,
+      "rimLight": 0.17,
+      "layerShade": 0
+    },
+    "curvature": {
+      "edgeLift": 0.18,
+      "tipCurl": 0.1,
+      "twist": 0,
+      "fineFold": 0.00875,
+      "edgeRoll": 0.85,
+      "bendByPetal": [
+        0.02,
+        0.03,
+        0.015,
+        0.025,
+        0.02
+      ],
+      "uprightLift": 0.15
+    },
+    "color": "#ad75b9",
+    "baseColor": "#ba80bc",
+    "lighting": {
+      "key": [
+        4,
+        9,
+        4
+      ],
+      "keyIntensity": 2.65,
+      "ambient": 0.58,
+      "fill": 0.22,
+      "exposure": 1.03,
+      "rim": 0.65
+    },
+    "revision": "V3 · 立体薄壳、原图纹理与光影",
+    "tipColor": "#c596d0"
+  }
+}

@@ -1,0 +1,2007 @@
+{
+  "schema": 1,
+  "source": "83 accepted source meshes; shared three-pose topology per level",
+  "stages": [
+    "Bud",
+    "Half",
+    "Full"
+  ],
+  "levels": [
+    "far",
+    "horizon"
+  ],
+  "species": [
+    {
+      "slug": "calendula",
+      "bytes": 11107,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 430,
+          "vertices": 263,
+          "voxelSize": 0.1,
+          "anchorTriangles": 10,
+          "sourceTriangles": 7236,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 86,
+          "vertices": 108,
+          "voxelSize": 0.25,
+          "anchorTriangles": 10,
+          "sourceTriangles": 7236,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "california-poppy",
+      "bytes": 8991,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 396,
+          "vertices": 295,
+          "voxelSize": 0.085,
+          "anchorTriangles": 12,
+          "sourceTriangles": 1844,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 80,
+          "vertices": 103,
+          "voxelSize": 0.36,
+          "anchorTriangles": 12,
+          "sourceTriangles": 1844,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "scarlet-flax",
+      "bytes": 11079,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 477,
+          "vertices": 281,
+          "voxelSize": 0.035,
+          "anchorTriangles": 6,
+          "sourceTriangles": 1468,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 95,
+          "vertices": 108,
+          "voxelSize": 0.21,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1468,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "kerria",
+      "bytes": 10965,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 455,
+          "vertices": 276,
+          "voxelSize": 0.045,
+          "anchorTriangles": 6,
+          "sourceTriangles": 1504,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 90,
+          "vertices": 110,
+          "voxelSize": 0.21,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1504,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "long-headed-poppy",
+      "bytes": 10384,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 455,
+          "vertices": 329,
+          "voxelSize": 0.085,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2020,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 90,
+          "vertices": 118,
+          "voxelSize": 0.36,
+          "anchorTriangles": 12,
+          "sourceTriangles": 2020,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "blanket-flower",
+      "bytes": 12454,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 421,
+          "vertices": 307,
+          "voxelSize": 0.085,
+          "anchorTriangles": 6,
+          "sourceTriangles": 2088,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 74,
+          "vertices": 100,
+          "voxelSize": 0.25,
+          "anchorTriangles": 7,
+          "sourceTriangles": 2088,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "phlox",
+      "bytes": 32694,
+      "sourceHeads": 17,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 823,
+          "vertices": 886,
+          "voxelSize": 0.12,
+          "anchorTriangles": 12,
+          "sourceTriangles": 13208,
+          "targetTriangles": 1020
+        },
+        "horizon": {
+          "triangles": 492,
+          "vertices": 557,
+          "voxelSize": 0.21,
+          "anchorTriangles": 15,
+          "sourceTriangles": 13208,
+          "targetTriangles": 332
+        }
+      }
+    },
+    {
+      "slug": "spiraea",
+      "bytes": 79245,
+      "sourceHeads": 42,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 1111,
+          "vertices": 1365,
+          "voxelSize": 0.055,
+          "anchorTriangles": 13,
+          "sourceTriangles": 26076,
+          "targetTriangles": 1200
+        },
+        "horizon": {
+          "triangles": 474,
+          "vertices": 670,
+          "voxelSize": 0.085,
+          "anchorTriangles": 16,
+          "sourceTriangles": 26076,
+          "targetTriangles": 400
+        }
+      }
+    },
+    {
+      "slug": "blue-flax",
+      "bytes": 11615,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 359,
+          "vertices": 309,
+          "voxelSize": 0.07,
+          "anchorTriangles": 14,
+          "sourceTriangles": 4044,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 146,
+          "vertices": 173,
+          "voxelSize": 0.3,
+          "anchorTriangles": 14,
+          "sourceTriangles": 4044,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "carnation",
+      "bytes": 11894,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 478,
+          "vertices": 331,
+          "voxelSize": 0.045,
+          "anchorTriangles": 6,
+          "sourceTriangles": 1452,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 100,
+          "vertices": 111,
+          "voxelSize": 0.25,
+          "anchorTriangles": 10,
+          "sourceTriangles": 1452,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "rockrose",
+      "bytes": 11524,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 475,
+          "vertices": 315,
+          "voxelSize": 0.045,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1516,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 80,
+          "vertices": 107,
+          "voxelSize": 0.21,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1516,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "cosmos",
+      "bytes": 10206,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 372,
+          "vertices": 307,
+          "voxelSize": 0.1,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2464,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 86,
+          "vertices": 109,
+          "voxelSize": 0.36,
+          "anchorTriangles": 13,
+          "sourceTriangles": 2464,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "white-peony",
+      "bytes": 12616,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 456,
+          "vertices": 338,
+          "voxelSize": 0.1,
+          "anchorTriangles": 7,
+          "sourceTriangles": 4388,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 178,
+          "vertices": 175,
+          "voxelSize": 0.52,
+          "anchorTriangles": 12,
+          "sourceTriangles": 4388,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "white-prickly-poppy",
+      "bytes": 10608,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 426,
+          "vertices": 302,
+          "voxelSize": 0.1,
+          "anchorTriangles": 9,
+          "sourceTriangles": 2160,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 81,
+          "vertices": 113,
+          "voxelSize": 0.36,
+          "anchorTriangles": 13,
+          "sourceTriangles": 2160,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "matilija-poppy",
+      "bytes": 11156,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 454,
+          "vertices": 311,
+          "voxelSize": 0.1,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2208,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 90,
+          "vertices": 116,
+          "voxelSize": 0.36,
+          "anchorTriangles": 13,
+          "sourceTriangles": 2208,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "red-maids",
+      "bytes": 11683,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 462,
+          "vertices": 279,
+          "voxelSize": 0.045,
+          "anchorTriangles": 9,
+          "sourceTriangles": 1436,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 68,
+          "vertices": 91,
+          "voxelSize": 0.25,
+          "anchorTriangles": 14,
+          "sourceTriangles": 1436,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "pink-evening-primrose",
+      "bytes": 11163,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 395,
+          "vertices": 305,
+          "voxelSize": 0.085,
+          "anchorTriangles": 9,
+          "sourceTriangles": 2528,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 118,
+          "vertices": 143,
+          "voxelSize": 0.43,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2528,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "corn-poppy",
+      "bytes": 11213,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 477,
+          "vertices": 322,
+          "voxelSize": 0.085,
+          "anchorTriangles": 9,
+          "sourceTriangles": 2020,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 99,
+          "vertices": 128,
+          "voxelSize": 0.3,
+          "anchorTriangles": 12,
+          "sourceTriangles": 2020,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "japanese-camellia",
+      "bytes": 12076,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 458,
+          "vertices": 288,
+          "voxelSize": 0.07,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1632,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 100,
+          "vertices": 115,
+          "voxelSize": 0.21,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1632,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "sunset-hibiscus",
+      "bytes": 11403,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 454,
+          "vertices": 314,
+          "voxelSize": 0.085,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1984,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 72,
+          "vertices": 108,
+          "voxelSize": 0.36,
+          "anchorTriangles": 12,
+          "sourceTriangles": 1984,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "yellow-prickly-poppy",
+      "bytes": 11491,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 461,
+          "vertices": 315,
+          "voxelSize": 0.085,
+          "anchorTriangles": 8,
+          "sourceTriangles": 2160,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 98,
+          "vertices": 122,
+          "voxelSize": 0.3,
+          "anchorTriangles": 12,
+          "sourceTriangles": 2160,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "tea-flower",
+      "bytes": 11907,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 411,
+          "vertices": 315,
+          "voxelSize": 0.07,
+          "anchorTriangles": 8,
+          "sourceTriangles": 2888,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 137,
+          "vertices": 151,
+          "voxelSize": 0.36,
+          "anchorTriangles": 9,
+          "sourceTriangles": 2888,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "flowering-quince",
+      "bytes": 12848,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 395,
+          "vertices": 334,
+          "voxelSize": 0.085,
+          "anchorTriangles": 8,
+          "sourceTriangles": 4308,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 157,
+          "vertices": 177,
+          "voxelSize": 0.43,
+          "anchorTriangles": 10,
+          "sourceTriangles": 4308,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "chocolate-cosmos",
+      "bytes": 11256,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 470,
+          "vertices": 356,
+          "voxelSize": 0.085,
+          "anchorTriangles": 13,
+          "sourceTriangles": 2464,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 82,
+          "vertices": 113,
+          "voxelSize": 0.36,
+          "anchorTriangles": 14,
+          "sourceTriangles": 2464,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "bush-poppy",
+      "bytes": 10712,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 456,
+          "vertices": 304,
+          "voxelSize": 0.045,
+          "anchorTriangles": 5,
+          "sourceTriangles": 1352,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 70,
+          "vertices": 91,
+          "voxelSize": 0.25,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1352,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "tufted-poppy",
+      "bytes": 9851,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 379,
+          "vertices": 291,
+          "voxelSize": 0.085,
+          "anchorTriangles": 10,
+          "sourceTriangles": 1844,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 99,
+          "vertices": 116,
+          "voxelSize": 0.3,
+          "anchorTriangles": 11,
+          "sourceTriangles": 1844,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "common-rock-rose",
+      "bytes": 11823,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 477,
+          "vertices": 295,
+          "voxelSize": 0.045,
+          "anchorTriangles": 6,
+          "sourceTriangles": 1468,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 98,
+          "vertices": 103,
+          "voxelSize": 0.21,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1468,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "christmas-rose",
+      "bytes": 15177,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 467,
+          "vertices": 406,
+          "voxelSize": 0.085,
+          "anchorTriangles": 8,
+          "sourceTriangles": 5388,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 198,
+          "vertices": 200,
+          "voxelSize": 0.43,
+          "anchorTriangles": 13,
+          "sourceTriangles": 5388,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "common-flax",
+      "bytes": 14443,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 462,
+          "vertices": 383,
+          "voxelSize": 0.07,
+          "anchorTriangles": 12,
+          "sourceTriangles": 3432,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 147,
+          "vertices": 172,
+          "voxelSize": 0.43,
+          "anchorTriangles": 13,
+          "sourceTriangles": 3432,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "missouri-primrose",
+      "bytes": 11432,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 438,
+          "vertices": 287,
+          "voxelSize": 0.035,
+          "anchorTriangles": 4,
+          "sourceTriangles": 1288,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 87,
+          "vertices": 117,
+          "voxelSize": 0.25,
+          "anchorTriangles": 12,
+          "sourceTriangles": 1288,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "wood-sorrel",
+      "bytes": 13069,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 423,
+          "vertices": 362,
+          "voxelSize": 0.085,
+          "anchorTriangles": 11,
+          "sourceTriangles": 4296,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 185,
+          "vertices": 202,
+          "voxelSize": 0.43,
+          "anchorTriangles": 12,
+          "sourceTriangles": 4296,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "himalayan-peony",
+      "bytes": 11485,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 441,
+          "vertices": 329,
+          "voxelSize": 0.085,
+          "anchorTriangles": 7,
+          "sourceTriangles": 2204,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 64,
+          "vertices": 100,
+          "voxelSize": 0.36,
+          "anchorTriangles": 14,
+          "sourceTriangles": 2204,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "fernleaf-peony",
+      "bytes": 7860,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 370,
+          "vertices": 232,
+          "voxelSize": 0.145,
+          "anchorTriangles": 12,
+          "sourceTriangles": 4432,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 87,
+          "vertices": 88,
+          "voxelSize": 0.52,
+          "anchorTriangles": 14,
+          "sourceTriangles": 4432,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "dog-rose",
+      "bytes": 11757,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 408,
+          "vertices": 321,
+          "voxelSize": 0.1,
+          "anchorTriangles": 10,
+          "sourceTriangles": 3284,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 194,
+          "vertices": 187,
+          "voxelSize": 0.52,
+          "anchorTriangles": 12,
+          "sourceTriangles": 3284,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "asphodelus-fistulosus",
+      "bytes": 10513,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 408,
+          "vertices": 264,
+          "voxelSize": 0.045,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1384,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 99,
+          "vertices": 115,
+          "voxelSize": 0.175,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1384,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "calycanthus-chinensis",
+      "bytes": 12841,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 459,
+          "vertices": 310,
+          "voxelSize": 0.085,
+          "anchorTriangles": 6,
+          "sourceTriangles": 3268,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 89,
+          "vertices": 112,
+          "voxelSize": 0.25,
+          "anchorTriangles": 11,
+          "sourceTriangles": 3268,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "amana-edulis",
+      "bytes": 16074,
+      "sourceHeads": 6,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 475,
+          "vertices": 470,
+          "voxelSize": 0.07,
+          "anchorTriangles": 8,
+          "sourceTriangles": 5256,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 176,
+          "vertices": 211,
+          "voxelSize": 0.43,
+          "anchorTriangles": 10,
+          "sourceTriangles": 5256,
+          "targetTriangles": 156
+        }
+      }
+    },
+    {
+      "slug": "rosa-banksiae",
+      "bytes": 17954,
+      "sourceHeads": 8,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 487,
+          "vertices": 417,
+          "voxelSize": 0.43,
+          "anchorTriangles": 11,
+          "sourceTriangles": 21020,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 423,
+          "vertices": 355,
+          "voxelSize": 0.43,
+          "anchorTriangles": 13,
+          "sourceTriangles": 21020,
+          "targetTriangles": 188
+        }
+      }
+    },
+    {
+      "slug": "coffea-arabica",
+      "bytes": 24948,
+      "sourceHeads": 15,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 817,
+          "vertices": 792,
+          "voxelSize": 0.07,
+          "anchorTriangles": 7,
+          "sourceTriangles": 10788,
+          "targetTriangles": 900
+        },
+        "horizon": {
+          "triangles": 339,
+          "vertices": 371,
+          "voxelSize": 0.52,
+          "anchorTriangles": 9,
+          "sourceTriangles": 10788,
+          "targetTriangles": 300
+        }
+      }
+    },
+    {
+      "slug": "rudbeckia-hirta",
+      "bytes": 14090,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 454,
+          "vertices": 359,
+          "voxelSize": 0.07,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2744,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 98,
+          "vertices": 120,
+          "voxelSize": 0.25,
+          "anchorTriangles": 12,
+          "sourceTriangles": 2744,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "linum-africanum",
+      "bytes": 11634,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 453,
+          "vertices": 299,
+          "voxelSize": 0.035,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1176,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 79,
+          "vertices": 106,
+          "voxelSize": 0.21,
+          "anchorTriangles": 10,
+          "sourceTriangles": 1176,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "talinum-afrum",
+      "bytes": 10871,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 404,
+          "vertices": 280,
+          "voxelSize": 0.045,
+          "anchorTriangles": 9,
+          "sourceTriangles": 1484,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 92,
+          "vertices": 116,
+          "voxelSize": 0.21,
+          "anchorTriangles": 10,
+          "sourceTriangles": 1484,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "iris-domestica",
+      "bytes": 10159,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 383,
+          "vertices": 259,
+          "voxelSize": 0.045,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1252,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 92,
+          "vertices": 109,
+          "voxelSize": 0.175,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1252,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "delosperma-floribundum",
+      "bytes": 9871,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 296,
+          "vertices": 247,
+          "voxelSize": 0.12,
+          "anchorTriangles": 12,
+          "sourceTriangles": 5352,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 82,
+          "vertices": 111,
+          "voxelSize": 0.25,
+          "anchorTriangles": 12,
+          "sourceTriangles": 5352,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "dianthus-barbatus",
+      "bytes": 16487,
+      "sourceHeads": 7,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 464,
+          "vertices": 478,
+          "voxelSize": 0.145,
+          "anchorTriangles": 9,
+          "sourceTriangles": 8056,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 209,
+          "vertices": 242,
+          "voxelSize": 0.52,
+          "anchorTriangles": 11,
+          "sourceTriangles": 8056,
+          "targetTriangles": 172
+        }
+      }
+    },
+    {
+      "slug": "platycodon-grandiflorus",
+      "bytes": 12541,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 432,
+          "vertices": 325,
+          "voxelSize": 0.07,
+          "anchorTriangles": 12,
+          "sourceTriangles": 12016,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 126,
+          "vertices": 151,
+          "voxelSize": 0.36,
+          "anchorTriangles": 14,
+          "sourceTriangles": 12016,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "aristea-africana",
+      "bytes": 13218,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 418,
+          "vertices": 363,
+          "voxelSize": 0.07,
+          "anchorTriangles": 10,
+          "sourceTriangles": 3660,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 138,
+          "vertices": 164,
+          "voxelSize": 0.43,
+          "anchorTriangles": 12,
+          "sourceTriangles": 3660,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "ixiolirion-songaricum",
+      "bytes": 14170,
+      "sourceHeads": 4,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 399,
+          "vertices": 410,
+          "voxelSize": 0.055,
+          "anchorTriangles": 9,
+          "sourceTriangles": 4864,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 146,
+          "vertices": 173,
+          "voxelSize": 0.43,
+          "anchorTriangles": 12,
+          "sourceTriangles": 4864,
+          "targetTriangles": 124
+        }
+      }
+    },
+    {
+      "slug": "ceratostigma-plumbaginoides",
+      "bytes": 12539,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 400,
+          "vertices": 358,
+          "voxelSize": 0.07,
+          "anchorTriangles": 8,
+          "sourceTriangles": 3480,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 132,
+          "vertices": 153,
+          "voxelSize": 0.43,
+          "anchorTriangles": 10,
+          "sourceTriangles": 3480,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "adonis-vernalis",
+      "bytes": 11326,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 448,
+          "vertices": 315,
+          "voxelSize": 0.145,
+          "anchorTriangles": 13,
+          "sourceTriangles": 8532,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 232,
+          "vertices": 204,
+          "voxelSize": 0.36,
+          "anchorTriangles": 13,
+          "sourceTriangles": 8532,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "arctotis-fastuosa",
+      "bytes": 21401,
+      "sourceHeads": 9,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 522,
+          "vertices": 582,
+          "voxelSize": 0.25,
+          "anchorTriangles": 12,
+          "sourceTriangles": 18318,
+          "targetTriangles": 540
+        },
+        "horizon": {
+          "triangles": 367,
+          "vertices": 396,
+          "voxelSize": 0.52,
+          "anchorTriangles": 14,
+          "sourceTriangles": 18318,
+          "targetTriangles": 204
+        }
+      }
+    },
+    {
+      "slug": "catharanthus-roseus",
+      "bytes": 13875,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 443,
+          "vertices": 374,
+          "voxelSize": 0.07,
+          "anchorTriangles": 9,
+          "sourceTriangles": 3408,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 139,
+          "vertices": 166,
+          "voxelSize": 0.43,
+          "anchorTriangles": 11,
+          "sourceTriangles": 3408,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "cichorium-intybus",
+      "bytes": 10699,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 337,
+          "vertices": 287,
+          "voxelSize": 0.085,
+          "anchorTriangles": 9,
+          "sourceTriangles": 2616,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 66,
+          "vertices": 95,
+          "voxelSize": 0.25,
+          "anchorTriangles": 12,
+          "sourceTriangles": 2616,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "clarkia-pulchella",
+      "bytes": 11606,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 411,
+          "vertices": 299,
+          "voxelSize": 0.07,
+          "anchorTriangles": 9,
+          "sourceTriangles": 3680,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 114,
+          "vertices": 141,
+          "voxelSize": 0.43,
+          "anchorTriangles": 11,
+          "sourceTriangles": 3680,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "clarkia-unguiculata",
+      "bytes": 11138,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 361,
+          "vertices": 297,
+          "voxelSize": 0.035,
+          "anchorTriangles": 7,
+          "sourceTriangles": 1288,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 91,
+          "vertices": 119,
+          "voxelSize": 0.21,
+          "anchorTriangles": 8,
+          "sourceTriangles": 1288,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "dianthus-chinensis",
+      "bytes": 16262,
+      "sourceHeads": 7,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 457,
+          "vertices": 460,
+          "voxelSize": 0.145,
+          "anchorTriangles": 6,
+          "sourceTriangles": 7832,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 216,
+          "vertices": 248,
+          "voxelSize": 0.52,
+          "anchorTriangles": 8,
+          "sourceTriangles": 7832,
+          "targetTriangles": 172
+        }
+      }
+    },
+    {
+      "slug": "gardenia-jasminoides",
+      "bytes": 13238,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 469,
+          "vertices": 357,
+          "voxelSize": 0.055,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2784,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 113,
+          "vertices": 139,
+          "voxelSize": 0.43,
+          "anchorTriangles": 11,
+          "sourceTriangles": 2784,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "gazania-rigens",
+      "bytes": 16149,
+      "sourceHeads": 5,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 423,
+          "vertices": 453,
+          "voxelSize": 0.12,
+          "anchorTriangles": 8,
+          "sourceTriangles": 8628,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 179,
+          "vertices": 217,
+          "voxelSize": 0.52,
+          "anchorTriangles": 10,
+          "sourceTriangles": 8628,
+          "targetTriangles": 140
+        }
+      }
+    },
+    {
+      "slug": "geranium-sanguineum",
+      "bytes": 13032,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 416,
+          "vertices": 361,
+          "voxelSize": 0.1,
+          "anchorTriangles": 7,
+          "sourceTriangles": 4392,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 190,
+          "vertices": 193,
+          "voxelSize": 0.43,
+          "anchorTriangles": 12,
+          "sourceTriangles": 4392,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "hesperis-matronalis",
+      "bytes": 19844,
+      "sourceHeads": 9,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 508,
+          "vertices": 537,
+          "voxelSize": 0.145,
+          "anchorTriangles": 7,
+          "sourceTriangles": 6132,
+          "targetTriangles": 540
+        },
+        "horizon": {
+          "triangles": 263,
+          "vertices": 333,
+          "voxelSize": 0.52,
+          "anchorTriangles": 9,
+          "sourceTriangles": 6132,
+          "targetTriangles": 204
+        }
+      }
+    },
+    {
+      "slug": "hibiscus-trionum",
+      "bytes": 10266,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 406,
+          "vertices": 310,
+          "voxelSize": 0.085,
+          "anchorTriangles": 9,
+          "sourceTriangles": 1984,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 70,
+          "vertices": 100,
+          "voxelSize": 0.36,
+          "anchorTriangles": 10,
+          "sourceTriangles": 1984,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "jasminum-nudiflorum",
+      "bytes": 15975,
+      "sourceHeads": 5,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 476,
+          "vertices": 440,
+          "voxelSize": 0.085,
+          "anchorTriangles": 10,
+          "sourceTriangles": 6420,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 136,
+          "vertices": 167,
+          "voxelSize": 0.52,
+          "anchorTriangles": 13,
+          "sourceTriangles": 6420,
+          "targetTriangles": 140
+        }
+      }
+    },
+    {
+      "slug": "jatropha-integerrima",
+      "bytes": 14476,
+      "sourceHeads": 4,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 434,
+          "vertices": 389,
+          "voxelSize": 0.07,
+          "anchorTriangles": 11,
+          "sourceTriangles": 5376,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 170,
+          "vertices": 193,
+          "voxelSize": 0.52,
+          "anchorTriangles": 13,
+          "sourceTriangles": 5376,
+          "targetTriangles": 124
+        }
+      }
+    },
+    {
+      "slug": "lagerstroemia-indica",
+      "bytes": 12290,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 382,
+          "vertices": 338,
+          "voxelSize": 0.055,
+          "anchorTriangles": 7,
+          "sourceTriangles": 2064,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 72,
+          "vertices": 117,
+          "voxelSize": 0.25,
+          "anchorTriangles": 11,
+          "sourceTriangles": 2064,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "lewisia-rediviva",
+      "bytes": 14506,
+      "sourceHeads": 4,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 447,
+          "vertices": 356,
+          "voxelSize": 0.1,
+          "anchorTriangles": 8,
+          "sourceTriangles": 8544,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 174,
+          "vertices": 164,
+          "voxelSize": 0.43,
+          "anchorTriangles": 10,
+          "sourceTriangles": 8544,
+          "targetTriangles": 124
+        }
+      }
+    },
+    {
+      "slug": "lobularia-maritima",
+      "bytes": 37561,
+      "sourceHeads": 21,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 978,
+          "vertices": 1040,
+          "voxelSize": 0.07,
+          "anchorTriangles": 9,
+          "sourceTriangles": 12396,
+          "targetTriangles": 1200
+        },
+        "horizon": {
+          "triangles": 543,
+          "vertices": 663,
+          "voxelSize": 0.52,
+          "anchorTriangles": 9,
+          "sourceTriangles": 12396,
+          "targetTriangles": 396
+        }
+      }
+    },
+    {
+      "slug": "lunaria-annua",
+      "bytes": 17272,
+      "sourceHeads": 6,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 462,
+          "vertices": 467,
+          "voxelSize": 0.085,
+          "anchorTriangles": 7,
+          "sourceTriangles": 5592,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 192,
+          "vertices": 245,
+          "voxelSize": 0.52,
+          "anchorTriangles": 9,
+          "sourceTriangles": 5592,
+          "targetTriangles": 156
+        }
+      }
+    },
+    {
+      "slug": "nemophila-menziesii",
+      "bytes": 10061,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 407,
+          "vertices": 319,
+          "voxelSize": 0.085,
+          "anchorTriangles": 12,
+          "sourceTriangles": 1716,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 78,
+          "vertices": 109,
+          "voxelSize": 0.36,
+          "anchorTriangles": 13,
+          "sourceTriangles": 1716,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "oxalis-versicolor",
+      "bytes": 14790,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 421,
+          "vertices": 414,
+          "voxelSize": 0.085,
+          "anchorTriangles": 11,
+          "sourceTriangles": 3408,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 140,
+          "vertices": 158,
+          "voxelSize": 0.43,
+          "anchorTriangles": 11,
+          "sourceTriangles": 3408,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "passiflora-caerulea",
+      "bytes": 13850,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 468,
+          "vertices": 373,
+          "voxelSize": 0.085,
+          "anchorTriangles": 8,
+          "sourceTriangles": 6212,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 90,
+          "vertices": 130,
+          "voxelSize": 0.3,
+          "anchorTriangles": 14,
+          "sourceTriangles": 6212,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "phlox-drummondii",
+      "bytes": 13252,
+      "sourceHeads": 4,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 410,
+          "vertices": 370,
+          "voxelSize": 0.085,
+          "anchorTriangles": 7,
+          "sourceTriangles": 4528,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 164,
+          "vertices": 184,
+          "voxelSize": 0.52,
+          "anchorTriangles": 9,
+          "sourceTriangles": 4528,
+          "targetTriangles": 124
+        }
+      }
+    },
+    {
+      "slug": "phlox-subulata",
+      "bytes": 16083,
+      "sourceHeads": 7,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 461,
+          "vertices": 477,
+          "voxelSize": 0.12,
+          "anchorTriangles": 12,
+          "sourceTriangles": 7888,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 204,
+          "vertices": 236,
+          "voxelSize": 0.52,
+          "anchorTriangles": 14,
+          "sourceTriangles": 7888,
+          "targetTriangles": 172
+        }
+      }
+    },
+    {
+      "slug": "platystemon-californicus",
+      "bytes": 15502,
+      "sourceHeads": 5,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 459,
+          "vertices": 447,
+          "voxelSize": 0.07,
+          "anchorTriangles": 10,
+          "sourceTriangles": 7968,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 164,
+          "vertices": 194,
+          "voxelSize": 0.52,
+          "anchorTriangles": 12,
+          "sourceTriangles": 7968,
+          "targetTriangles": 140
+        }
+      }
+    },
+    {
+      "slug": "plumbago-auriculata",
+      "bytes": 13396,
+      "sourceHeads": 2,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 460,
+          "vertices": 367,
+          "voxelSize": 0.055,
+          "anchorTriangles": 10,
+          "sourceTriangles": 2288,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 118,
+          "vertices": 146,
+          "voxelSize": 0.43,
+          "anchorTriangles": 11,
+          "sourceTriangles": 2288,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "prunus-avium",
+      "bytes": 15543,
+      "sourceHeads": 5,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 447,
+          "vertices": 438,
+          "voxelSize": 0.07,
+          "anchorTriangles": 12,
+          "sourceTriangles": 7148,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 176,
+          "vertices": 209,
+          "voxelSize": 0.52,
+          "anchorTriangles": 13,
+          "sourceTriangles": 7148,
+          "targetTriangles": 140
+        }
+      }
+    },
+    {
+      "slug": "prunus-cerasifera",
+      "bytes": 14825,
+      "sourceHeads": 5,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 425,
+          "vertices": 432,
+          "voxelSize": 0.085,
+          "anchorTriangles": 12,
+          "sourceTriangles": 7228,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 170,
+          "vertices": 204,
+          "voxelSize": 0.52,
+          "anchorTriangles": 14,
+          "sourceTriangles": 7228,
+          "targetTriangles": 140
+        }
+      }
+    },
+    {
+      "slug": "pulsatilla-vulgaris",
+      "bytes": 11503,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 464,
+          "vertices": 332,
+          "voxelSize": 0.145,
+          "anchorTriangles": 10,
+          "sourceTriangles": 7272,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 242,
+          "vertices": 208,
+          "voxelSize": 0.52,
+          "anchorTriangles": 12,
+          "sourceTriangles": 7272,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "rosa-moyesii",
+      "bytes": 11515,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 472,
+          "vertices": 340,
+          "voxelSize": 0.085,
+          "anchorTriangles": 10,
+          "sourceTriangles": 1900,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 77,
+          "vertices": 115,
+          "voxelSize": 0.36,
+          "anchorTriangles": 13,
+          "sourceTriangles": 1900,
+          "targetTriangles": 100
+        }
+      }
+    },
+    {
+      "slug": "rosa-multiflora",
+      "bytes": 14375,
+      "sourceHeads": 7,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 436,
+          "vertices": 434,
+          "voxelSize": 0.145,
+          "anchorTriangles": 11,
+          "sourceTriangles": 8228,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 276,
+          "vertices": 284,
+          "voxelSize": 0.52,
+          "anchorTriangles": 13,
+          "sourceTriangles": 8228,
+          "targetTriangles": 172
+        }
+      }
+    },
+    {
+      "slug": "rudbeckia-triloba",
+      "bytes": 14411,
+      "sourceHeads": 6,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 449,
+          "vertices": 412,
+          "voxelSize": 0.145,
+          "anchorTriangles": 15,
+          "sourceTriangles": 6444,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 207,
+          "vertices": 232,
+          "voxelSize": 0.52,
+          "anchorTriangles": 16,
+          "sourceTriangles": 6444,
+          "targetTriangles": 156
+        }
+      }
+    },
+    {
+      "slug": "saponaria-officinalis",
+      "bytes": 15116,
+      "sourceHeads": 7,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 430,
+          "vertices": 459,
+          "voxelSize": 0.145,
+          "anchorTriangles": 11,
+          "sourceTriangles": 7888,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 205,
+          "vertices": 259,
+          "voxelSize": 0.52,
+          "anchorTriangles": 13,
+          "sourceTriangles": 7888,
+          "targetTriangles": 172
+        }
+      }
+    },
+    {
+      "slug": "scilla-bifolia",
+      "bytes": 14144,
+      "sourceHeads": 3,
+      "budgetException": "Separate flower heads and long branches retain independent spatial grids; the multihead budget prioritizes their three-dimensional silhouettes.",
+      "levels": {
+        "far": {
+          "triangles": 456,
+          "vertices": 403,
+          "voxelSize": 0.055,
+          "anchorTriangles": 7,
+          "sourceTriangles": 4056,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 128,
+          "vertices": 150,
+          "voxelSize": 0.43,
+          "anchorTriangles": 10,
+          "sourceTriangles": 4056,
+          "targetTriangles": 108
+        }
+      }
+    },
+    {
+      "slug": "zinnia-elegans",
+      "bytes": 13303,
+      "sourceHeads": 1,
+      "budgetException": null,
+      "levels": {
+        "far": {
+          "triangles": 432,
+          "vertices": 319,
+          "voxelSize": 0.1,
+          "anchorTriangles": 10,
+          "sourceTriangles": 4592,
+          "targetTriangles": 480
+        },
+        "horizon": {
+          "triangles": 96,
+          "vertices": 124,
+          "voxelSize": 0.3,
+          "anchorTriangles": 12,
+          "sourceTriangles": 4592,
+          "targetTriangles": 100
+        }
+      }
+    }
+  ]
+}

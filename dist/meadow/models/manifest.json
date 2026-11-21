@@ -1,0 +1,1173 @@
+{
+  "schema": 1,
+  "source": "83 accepted reference-guided studies",
+  "stages": [
+    "Bud",
+    "Half",
+    "Full"
+  ],
+  "species": [
+    {
+      "slug": "calendula",
+      "number": 1,
+      "name": "金盏花",
+      "bytes": 261366,
+      "triangles": 7236,
+      "vertices": 3997,
+      "sourceHeight": 3.562964343258632,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 69
+    },
+    {
+      "slug": "california-poppy",
+      "number": 2,
+      "name": "花菱草(加州罂粟)",
+      "bytes": 100209,
+      "triangles": 1844,
+      "vertices": 1447,
+      "sourceHeight": 3.5775891219258207,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "scarlet-flax",
+      "number": 3,
+      "name": "红亚麻",
+      "bytes": 88983,
+      "triangles": 1468,
+      "vertices": 1042,
+      "sourceHeight": 3.3214563690374317,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "kerria",
+      "number": 4,
+      "name": "棣棠花",
+      "bytes": 86774,
+      "triangles": 1504,
+      "vertices": 1075,
+      "sourceHeight": 3.2640092423865714,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "long-headed-poppy",
+      "number": 5,
+      "name": "长荚罂粟",
+      "bytes": 118862,
+      "triangles": 2020,
+      "vertices": 1755,
+      "sourceHeight": 3.429733913342134,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "blanket-flower",
+      "number": 6,
+      "name": "天人菊",
+      "bytes": 134510,
+      "triangles": 2088,
+      "vertices": 1303,
+      "sourceHeight": 3.2771519193896235,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 9
+    },
+    {
+      "slug": "phlox",
+      "number": 7,
+      "name": "天蓝绣球",
+      "bytes": 408538,
+      "triangles": 13208,
+      "vertices": 9287,
+      "sourceHeight": 3.3409849289990965,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 85
+    },
+    {
+      "slug": "spiraea",
+      "number": 8,
+      "name": "李叶绣线菊",
+      "bytes": 701778,
+      "triangles": 26076,
+      "vertices": 17794,
+      "sourceHeight": 3.3958718480163896,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 210
+    },
+    {
+      "slug": "blue-flax",
+      "number": 9,
+      "name": "宿根亚麻",
+      "bytes": 167087,
+      "triangles": 4044,
+      "vertices": 2778,
+      "sourceHeight": 3.6331284858304564,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "carnation",
+      "number": 10,
+      "name": "香石竹",
+      "bytes": 78312,
+      "triangles": 1452,
+      "vertices": 1039,
+      "sourceHeight": 3.2467126308499985,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "rockrose",
+      "number": 11,
+      "name": "白毛岩蔷薇",
+      "bytes": 99332,
+      "triangles": 1516,
+      "vertices": 1087,
+      "sourceHeight": 3.4244145743587495,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "cosmos",
+      "number": 12,
+      "name": "黄花波斯菊",
+      "bytes": 149133,
+      "triangles": 2464,
+      "vertices": 1708,
+      "sourceHeight": 3.361304378077552,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 8
+    },
+    {
+      "slug": "white-peony",
+      "number": 13,
+      "name": "芍药",
+      "bytes": 169412,
+      "triangles": 4388,
+      "vertices": 3005,
+      "sourceHeight": 3.7261822568256635,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 16
+    },
+    {
+      "slug": "white-prickly-poppy",
+      "number": 14,
+      "name": "大花蓟罂粟",
+      "bytes": 107696,
+      "triangles": 2160,
+      "vertices": 1603,
+      "sourceHeight": 3.7256205658090273,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "matilija-poppy",
+      "number": 15,
+      "name": "大罂粟",
+      "bytes": 106242,
+      "triangles": 2208,
+      "vertices": 1648,
+      "sourceHeight": 3.8317605369108154,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "red-maids",
+      "number": 16,
+      "name": "大花岩马齿",
+      "bytes": 83456,
+      "triangles": 1436,
+      "vertices": 1025,
+      "sourceHeight": 3.5467997376714013,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "pink-evening-primrose",
+      "number": 17,
+      "name": "美丽月见草",
+      "bytes": 116643,
+      "triangles": 2528,
+      "vertices": 1807,
+      "sourceHeight": 3.6054377679693133,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 8
+    },
+    {
+      "slug": "corn-poppy",
+      "number": 18,
+      "name": "虞美人",
+      "bytes": 109864,
+      "triangles": 2020,
+      "vertices": 1755,
+      "sourceHeight": 3.7735098716837734,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "japanese-camellia",
+      "number": 19,
+      "name": "山茶花",
+      "bytes": 91824,
+      "triangles": 1632,
+      "vertices": 1126,
+      "sourceHeight": 3.7527949528907776,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "sunset-hibiscus",
+      "number": 20,
+      "name": "黄蜀葵",
+      "bytes": 106292,
+      "triangles": 1984,
+      "vertices": 1552,
+      "sourceHeight": 3.7760920588411815,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "yellow-prickly-poppy",
+      "number": 21,
+      "name": "蓟罂粟",
+      "bytes": 110565,
+      "triangles": 2160,
+      "vertices": 1603,
+      "sourceHeight": 3.9392630813450245,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "tea-flower",
+      "number": 22,
+      "name": "茶",
+      "bytes": 110715,
+      "triangles": 2888,
+      "vertices": 2039,
+      "sourceHeight": 3.5157602621355144,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 10
+    },
+    {
+      "slug": "flowering-quince",
+      "number": 23,
+      "name": "贴梗海棠",
+      "bytes": 169852,
+      "triangles": 4308,
+      "vertices": 3036,
+      "sourceHeight": 3.6868095896321758,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "chocolate-cosmos",
+      "number": 24,
+      "name": "巧克力秋英",
+      "bytes": 148356,
+      "triangles": 2464,
+      "vertices": 1708,
+      "sourceHeight": 3.4344338215866617,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 8
+    },
+    {
+      "slug": "bush-poppy",
+      "number": 25,
+      "name": "罂粟木",
+      "bytes": 68527,
+      "triangles": 1352,
+      "vertices": 1003,
+      "sourceHeight": 3.5245626437045576,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "tufted-poppy",
+      "number": 26,
+      "name": "丛生花菱草",
+      "bytes": 94221,
+      "triangles": 1844,
+      "vertices": 1447,
+      "sourceHeight": 3.938078503149847,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "common-rock-rose",
+      "number": 27,
+      "name": "岩蔷薇",
+      "bytes": 90109,
+      "triangles": 1468,
+      "vertices": 1042,
+      "sourceHeight": 3.518149148486033,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "christmas-rose",
+      "number": 28,
+      "name": "黑根铁筷子",
+      "bytes": 198308,
+      "triangles": 5388,
+      "vertices": 4095,
+      "sourceHeight": 3.7053248596576998,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "common-flax",
+      "number": 29,
+      "name": "亚麻",
+      "bytes": 155339,
+      "triangles": 3432,
+      "vertices": 2217,
+      "sourceHeight": 3.661533883757181,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "missouri-primrose",
+      "number": 30,
+      "name": "Oenothera macrocarpa",
+      "bytes": 64359,
+      "triangles": 1288,
+      "vertices": 926,
+      "sourceHeight": 3.7127759992445077,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "wood-sorrel",
+      "number": 31,
+      "name": "白花酢浆草",
+      "bytes": 165894,
+      "triangles": 4296,
+      "vertices": 3036,
+      "sourceHeight": 3.695709363250221,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "himalayan-peony",
+      "number": 32,
+      "name": "多花芍药",
+      "bytes": 89735,
+      "triangles": 2204,
+      "vertices": 1573,
+      "sourceHeight": 3.745964778734507,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 7
+    },
+    {
+      "slug": "fernleaf-peony",
+      "number": 33,
+      "name": "丝叶芍药",
+      "bytes": 168325,
+      "triangles": 4432,
+      "vertices": 3592,
+      "sourceHeight": 4.0778761399648715,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 8
+    },
+    {
+      "slug": "dog-rose",
+      "number": 34,
+      "name": "狗牙蔷薇",
+      "bytes": 140482,
+      "triangles": 3284,
+      "vertices": 2393,
+      "sourceHeight": 3.519576748024034,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 10
+    },
+    {
+      "slug": "asphodelus-fistulosus",
+      "number": 35,
+      "name": "葱叶阿福花",
+      "bytes": 68421,
+      "triangles": 1384,
+      "vertices": 896,
+      "sourceHeight": 3.7290043181184584,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "calycanthus-chinensis",
+      "number": 36,
+      "name": "夏蜡梅",
+      "bytes": 136639,
+      "triangles": 3268,
+      "vertices": 1811,
+      "sourceHeight": 3.724088962282805,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 18
+    },
+    {
+      "slug": "amana-edulis",
+      "number": 37,
+      "name": "老鸦瓣",
+      "bytes": 181380,
+      "triangles": 5256,
+      "vertices": 3501,
+      "sourceHeight": 3.691541955144822,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 36
+    },
+    {
+      "slug": "rosa-banksiae",
+      "number": 38,
+      "name": "木香花",
+      "bytes": 579610,
+      "triangles": 21020,
+      "vertices": 12207,
+      "sourceHeight": 3.798710400389409,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 240
+    },
+    {
+      "slug": "coffea-arabica",
+      "number": 39,
+      "name": "咖啡",
+      "bytes": 330180,
+      "triangles": 10788,
+      "vertices": 7365,
+      "sourceHeight": 3.4164858310912396,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 75
+    },
+    {
+      "slug": "rudbeckia-hirta",
+      "number": 40,
+      "name": "黑心金光菊",
+      "bytes": 143982,
+      "triangles": 2744,
+      "vertices": 1639,
+      "sourceHeight": 3.6386070605136744,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 13
+    },
+    {
+      "slug": "linum-africanum",
+      "number": 41,
+      "name": "非洲亚麻",
+      "bytes": 65837,
+      "triangles": 1176,
+      "vertices": 769,
+      "sourceHeight": 3.3905543011224912,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "talinum-afrum",
+      "number": 42,
+      "name": "加花土参",
+      "bytes": 80975,
+      "triangles": 1484,
+      "vertices": 1070,
+      "sourceHeight": 3.312298818652145,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "iris-domestica",
+      "number": 43,
+      "name": "射干",
+      "bytes": 70838,
+      "triangles": 1252,
+      "vertices": 767,
+      "sourceHeight": 3.7889023706976017,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "delosperma-floribundum",
+      "number": 44,
+      "name": "Delosperma floribundum",
+      "bytes": 186179,
+      "triangles": 5352,
+      "vertices": 3294,
+      "sourceHeight": 3.3628327333277004,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 40
+    },
+    {
+      "slug": "dianthus-barbatus",
+      "number": 45,
+      "name": "须苞石竹",
+      "bytes": 270398,
+      "triangles": 8056,
+      "vertices": 5253,
+      "sourceHeight": 3.3005473467729707,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 35
+    },
+    {
+      "slug": "platycodon-grandiflorus",
+      "number": 46,
+      "name": "桔梗",
+      "bytes": 437843,
+      "triangles": 12016,
+      "vertices": 6353,
+      "sourceHeight": 3.852203460122838,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 10
+    },
+    {
+      "slug": "aristea-africana",
+      "number": 47,
+      "name": "非洲蓝星鸢尾",
+      "bytes": 156184,
+      "triangles": 3660,
+      "vertices": 2211,
+      "sourceHeight": 3.647765905662766,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 18
+    },
+    {
+      "slug": "ixiolirion-songaricum",
+      "number": 48,
+      "name": "准噶尔鸢尾蒜",
+      "bytes": 179426,
+      "triangles": 4864,
+      "vertices": 2933,
+      "sourceHeight": 3.5869475954547982,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 24
+    },
+    {
+      "slug": "ceratostigma-plumbaginoides",
+      "number": 49,
+      "name": "蓝雪花",
+      "bytes": 145236,
+      "triangles": 3480,
+      "vertices": 2277,
+      "sourceHeight": 3.5822831212586386,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "adonis-vernalis",
+      "number": 50,
+      "name": "春侧金盏花",
+      "bytes": 276013,
+      "triangles": 8532,
+      "vertices": 5918,
+      "sourceHeight": 3.8176541833004687,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 30
+    },
+    {
+      "slug": "arctotis-fastuosa",
+      "number": 51,
+      "name": "金黄熊耳菊",
+      "bytes": 559086,
+      "triangles": 18318,
+      "vertices": 10830,
+      "sourceHeight": 3.296007037789124,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 198
+    },
+    {
+      "slug": "catharanthus-roseus",
+      "number": 52,
+      "name": "长春花",
+      "bytes": 141954,
+      "triangles": 3408,
+      "vertices": 2211,
+      "sourceHeight": 3.5806336378343304,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "cichorium-intybus",
+      "number": 53,
+      "name": "菊苣",
+      "bytes": 117384,
+      "triangles": 2616,
+      "vertices": 1630,
+      "sourceHeight": 3.2888732415735875,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 12
+    },
+    {
+      "slug": "clarkia-pulchella",
+      "number": 54,
+      "name": "Clarkia pulchella",
+      "bytes": 156456,
+      "triangles": 3680,
+      "vertices": 2383,
+      "sourceHeight": 3.608527949624819,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 8
+    },
+    {
+      "slug": "clarkia-unguiculata",
+      "number": 55,
+      "name": "绝色山字草",
+      "bytes": 96469,
+      "triangles": 1288,
+      "vertices": 1070,
+      "sourceHeight": 3.592816637870733,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 4
+    },
+    {
+      "slug": "dianthus-chinensis",
+      "number": 56,
+      "name": "石竹",
+      "bytes": 255108,
+      "triangles": 7832,
+      "vertices": 5029,
+      "sourceHeight": 3.3017750392228966,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 35
+    },
+    {
+      "slug": "gardenia-jasminoides",
+      "number": 57,
+      "name": "栀子花",
+      "bytes": 115443,
+      "triangles": 2784,
+      "vertices": 1843,
+      "sourceHeight": 3.6121453146035534,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 12
+    },
+    {
+      "slug": "gazania-rigens",
+      "number": 58,
+      "name": "勋章菊",
+      "bytes": 304008,
+      "triangles": 8628,
+      "vertices": 5555,
+      "sourceHeight": 3.293210513886964,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 60
+    },
+    {
+      "slug": "geranium-sanguineum",
+      "number": 59,
+      "name": "红花老鹳草",
+      "bytes": 171530,
+      "triangles": 4392,
+      "vertices": 3126,
+      "sourceHeight": 3.6237645428830834,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "hesperis-matronalis",
+      "number": 60,
+      "name": "欧亚香花芥",
+      "bytes": 204766,
+      "triangles": 6132,
+      "vertices": 4473,
+      "sourceHeight": 3.284809743355181,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 36
+    },
+    {
+      "slug": "hibiscus-trionum",
+      "number": 61,
+      "name": "野西瓜苗",
+      "bytes": 104325,
+      "triangles": 1984,
+      "vertices": 1552,
+      "sourceHeight": 3.302738954248113,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "jasminum-nudiflorum",
+      "number": 62,
+      "name": "迎春",
+      "bytes": 215217,
+      "triangles": 6420,
+      "vertices": 4030,
+      "sourceHeight": 3.2953423100833152,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 30
+    },
+    {
+      "slug": "jatropha-integerrima",
+      "number": 63,
+      "name": "琴叶珊瑚",
+      "bytes": 194506,
+      "triangles": 5376,
+      "vertices": 3689,
+      "sourceHeight": 3.30068443651291,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 20
+    },
+    {
+      "slug": "lagerstroemia-indica",
+      "number": 64,
+      "name": "紫薇",
+      "bytes": 124476,
+      "triangles": 2064,
+      "vertices": 1708,
+      "sourceHeight": 3.892020968361982,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 6
+    },
+    {
+      "slug": "lewisia-rediviva",
+      "number": 65,
+      "name": "苦根花",
+      "bytes": 267458,
+      "triangles": 8544,
+      "vertices": 5508,
+      "sourceHeight": 3.569987370710834,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 64
+    },
+    {
+      "slug": "lobularia-maritima",
+      "number": 66,
+      "name": "香雪球",
+      "bytes": 355734,
+      "triangles": 12396,
+      "vertices": 8235,
+      "sourceHeight": 3.365422186094859,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 84
+    },
+    {
+      "slug": "lunaria-annua",
+      "number": 67,
+      "name": "银扇草",
+      "bytes": 203384,
+      "triangles": 5592,
+      "vertices": 3585,
+      "sourceHeight": 3.288770541802725,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 24
+    },
+    {
+      "slug": "nemophila-menziesii",
+      "number": 68,
+      "name": "粉蝶花",
+      "bytes": 112860,
+      "triangles": 1716,
+      "vertices": 1258,
+      "sourceHeight": 3.2989937902387423,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "oxalis-versicolor",
+      "number": 69,
+      "name": "双色酢浆草",
+      "bytes": 143303,
+      "triangles": 3408,
+      "vertices": 2541,
+      "sourceHeight": 3.8904003148865693,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 15
+    },
+    {
+      "slug": "passiflora-caerulea",
+      "number": 70,
+      "name": "西番莲",
+      "bytes": 264514,
+      "triangles": 6212,
+      "vertices": 8176,
+      "sourceHeight": 3.925449604183444,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 10
+    },
+    {
+      "slug": "phlox-drummondii",
+      "number": 71,
+      "name": "小天蓝绣球",
+      "bytes": 181655,
+      "triangles": 4528,
+      "vertices": 2933,
+      "sourceHeight": 3.2843797730653224,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 20
+    },
+    {
+      "slug": "phlox-subulata",
+      "number": 72,
+      "name": "针叶天蓝绣球",
+      "bytes": 258251,
+      "triangles": 7888,
+      "vertices": 5099,
+      "sourceHeight": 3.2658969483933915,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 35
+    },
+    {
+      "slug": "platystemon-californicus",
+      "number": 73,
+      "name": "宽丝罂粟",
+      "bytes": 257917,
+      "triangles": 7968,
+      "vertices": 5450,
+      "sourceHeight": 3.3679792350286397,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 30
+    },
+    {
+      "slug": "plumbago-auriculata",
+      "number": 74,
+      "name": "蓝花丹",
+      "bytes": 116411,
+      "triangles": 2288,
+      "vertices": 1489,
+      "sourceHeight": 3.609212872807152,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 10
+    },
+    {
+      "slug": "prunus-avium",
+      "number": 75,
+      "name": "欧洲甜樱桃",
+      "bytes": 217411,
+      "triangles": 7148,
+      "vertices": 5030,
+      "sourceHeight": 3.3428683550307325,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 25
+    },
+    {
+      "slug": "prunus-cerasifera",
+      "number": 76,
+      "name": "樱桃李",
+      "bytes": 231329,
+      "triangles": 7228,
+      "vertices": 5170,
+      "sourceHeight": 3.3246624716838937,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 25
+    },
+    {
+      "slug": "pulsatilla-vulgaris",
+      "number": 77,
+      "name": "欧洲白头翁",
+      "bytes": 259670,
+      "triangles": 7272,
+      "vertices": 5586,
+      "sourceHeight": 3.758042285228649,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 18
+    },
+    {
+      "slug": "rosa-moyesii",
+      "number": 78,
+      "name": "华西蔷薇",
+      "bytes": 109781,
+      "triangles": 1900,
+      "vertices": 1429,
+      "sourceHeight": 3.322032543458208,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 5
+    },
+    {
+      "slug": "rosa-multiflora",
+      "number": 79,
+      "name": "野蔷薇",
+      "bytes": 258465,
+      "triangles": 8228,
+      "vertices": 5271,
+      "sourceHeight": 3.288407601927015,
+      "atlasSize": [
+        256,
+        128
+      ],
+      "petals": 35
+    },
+    {
+      "slug": "rudbeckia-triloba",
+      "number": 80,
+      "name": "三裂叶金光菊",
+      "bytes": 242162,
+      "triangles": 6444,
+      "vertices": 4029,
+      "sourceHeight": 3.41715137711536,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 48
+    },
+    {
+      "slug": "saponaria-officinalis",
+      "number": 81,
+      "name": "肥皂草",
+      "bytes": 245615,
+      "triangles": 7888,
+      "vertices": 5099,
+      "sourceHeight": 3.2979334342458904,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 35
+    },
+    {
+      "slug": "scilla-bifolia",
+      "number": 82,
+      "name": "二叶蓝瑰花",
+      "bytes": 181684,
+      "triangles": 4056,
+      "vertices": 2559,
+      "sourceHeight": 3.621408722159696,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 18
+    },
+    {
+      "slug": "zinnia-elegans",
+      "number": 83,
+      "name": "百日菊",
+      "bytes": 207795,
+      "triangles": 4592,
+      "vertices": 2815,
+      "sourceHeight": 3.511769330391624,
+      "atlasSize": [
+        256,
+        256
+      ],
+      "petals": 19
+    }
+  ]
+}

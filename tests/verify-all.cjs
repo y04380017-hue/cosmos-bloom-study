@@ -1,0 +1,4 @@
+const {spawnSync}=require('child_process'),path=require('path');
+const tests=['verify-geometry','verify-collection','verify-v3-surface','verify-accepted34','verify-cup26','verify-cup26-overlap','verify-cup26-buds','verify-cup26-pages','verify-remaining49','verify-remaining49-specials','verify-remaining49-pages','verify-collection-ui','verify-scatter','verify-meadow-assets','verify-meadow-far','verify-meadow-dynamics','verify-day-cycle','verify-cycle-render','verify-meadow-cycle-assets','verify-meadow-art-direction','verify-meadow-ui'];
+for(const test of tests){const r=spawnSync(process.execPath,[path.join(__dirname,test+'.cjs')],{encoding:'utf8',maxBuffer:8*1024*1024});if(r.status!==0){process.stderr.write(r.stdout+r.stderr);process.exit(r.status||1)}console.log('PASS '+test)}
+console.log('PASS '+tests.length+'/'+tests.length+' verification suites; GPU rendering is not covered.');

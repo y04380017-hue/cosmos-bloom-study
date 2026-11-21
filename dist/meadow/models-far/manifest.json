@@ -1,0 +1,1997 @@
+{
+  "schema": 1,
+  "species": [
+    {
+      "slug": "calendula",
+      "bytes": 12302,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7236,
+          "triangles": 376,
+          "vertices": 234,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 7236,
+          "triangles": 437,
+          "vertices": 234,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 7236,
+          "triangles": 420,
+          "vertices": 233,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "california-poppy",
+      "bytes": 14119,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1844,
+          "triangles": 468,
+          "vertices": 356,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 1844,
+          "triangles": 473,
+          "vertices": 340,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 1844,
+          "triangles": 384,
+          "vertices": 259,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "scarlet-flax",
+      "bytes": 11316,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1468,
+          "triangles": 301,
+          "vertices": 197,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1468,
+          "triangles": 425,
+          "vertices": 252,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1468,
+          "triangles": 471,
+          "vertices": 265,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "kerria",
+      "bytes": 11721,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1504,
+          "triangles": 325,
+          "vertices": 208,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1504,
+          "triangles": 464,
+          "vertices": 260,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1504,
+          "triangles": 449,
+          "vertices": 259,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "long-headed-poppy",
+      "bytes": 14448,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2020,
+          "triangles": 461,
+          "vertices": 365,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 2020,
+          "triangles": 417,
+          "vertices": 313,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2020,
+          "triangles": 445,
+          "vertices": 299,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "blanket-flower",
+      "bytes": 13717,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2088,
+          "triangles": 393,
+          "vertices": 278,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 2088,
+          "triangles": 390,
+          "vertices": 271,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2088,
+          "triangles": 415,
+          "vertices": 289,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "phlox",
+      "bytes": 12428,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 13208,
+          "triangles": 448,
+          "vertices": 346,
+          "voxelSize": 0.175
+        },
+        "Half": {
+          "sourceTriangles": 13208,
+          "triangles": 450,
+          "vertices": 355,
+          "voxelSize": 0.175
+        },
+        "Full": {
+          "sourceTriangles": 13208,
+          "triangles": 471,
+          "vertices": 371,
+          "voxelSize": 0.175
+        }
+      }
+    },
+    {
+      "slug": "spiraea",
+      "bytes": 20668,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 26076,
+          "triangles": 363,
+          "vertices": 445,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 26076,
+          "triangles": 341,
+          "vertices": 412,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 26076,
+          "triangles": 420,
+          "vertices": 418,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "blue-flax",
+      "bytes": 12551,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4044,
+          "triangles": 322,
+          "vertices": 256,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 4044,
+          "triangles": 430,
+          "vertices": 306,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 4044,
+          "triangles": 391,
+          "vertices": 285,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "carnation",
+      "bytes": 12245,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1452,
+          "triangles": 316,
+          "vertices": 246,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1452,
+          "triangles": 433,
+          "vertices": 301,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1452,
+          "triangles": 472,
+          "vertices": 313,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "rockrose",
+      "bytes": 12211,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1516,
+          "triangles": 404,
+          "vertices": 259,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1516,
+          "triangles": 442,
+          "vertices": 268,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 1516,
+          "triangles": 480,
+          "vertices": 300,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "cosmos",
+      "bytes": 14026,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2464,
+          "triangles": 374,
+          "vertices": 301,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 2464,
+          "triangles": 466,
+          "vertices": 348,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2464,
+          "triangles": 468,
+          "vertices": 339,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "white-peony",
+      "bytes": 13560,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4388,
+          "triangles": 390,
+          "vertices": 299,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 4388,
+          "triangles": 341,
+          "vertices": 262,
+          "voxelSize": 0.085
+        },
+        "Full": {
+          "sourceTriangles": 4388,
+          "triangles": 431,
+          "vertices": 301,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "white-prickly-poppy",
+      "bytes": 13264,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2160,
+          "triangles": 479,
+          "vertices": 325,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 2160,
+          "triangles": 365,
+          "vertices": 245,
+          "voxelSize": 0.085
+        },
+        "Full": {
+          "sourceTriangles": 2160,
+          "triangles": 479,
+          "vertices": 314,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "matilija-poppy",
+      "bytes": 13103,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2208,
+          "triangles": 392,
+          "vertices": 258,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 2208,
+          "triangles": 386,
+          "vertices": 252,
+          "voxelSize": 0.085
+        },
+        "Full": {
+          "sourceTriangles": 2208,
+          "triangles": 444,
+          "vertices": 283,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "red-maids",
+      "bytes": 12510,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1436,
+          "triangles": 362,
+          "vertices": 221,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1436,
+          "triangles": 468,
+          "vertices": 261,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1436,
+          "triangles": 453,
+          "vertices": 255,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "pink-evening-primrose",
+      "bytes": 13786,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2528,
+          "triangles": 459,
+          "vertices": 325,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 2528,
+          "triangles": 404,
+          "vertices": 305,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 2528,
+          "triangles": 392,
+          "vertices": 269,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "corn-poppy",
+      "bytes": 14128,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2020,
+          "triangles": 451,
+          "vertices": 328,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 2020,
+          "triangles": 404,
+          "vertices": 290,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2020,
+          "triangles": 468,
+          "vertices": 295,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "japanese-camellia",
+      "bytes": 12450,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1632,
+          "triangles": 363,
+          "vertices": 236,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1632,
+          "triangles": 432,
+          "vertices": 265,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 1632,
+          "triangles": 451,
+          "vertices": 267,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "sunset-hibiscus",
+      "bytes": 14121,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1984,
+          "triangles": 459,
+          "vertices": 331,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 1984,
+          "triangles": 370,
+          "vertices": 283,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 1984,
+          "triangles": 447,
+          "vertices": 295,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "yellow-prickly-poppy",
+      "bytes": 13736,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2160,
+          "triangles": 399,
+          "vertices": 295,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 2160,
+          "triangles": 388,
+          "vertices": 269,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2160,
+          "triangles": 453,
+          "vertices": 291,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "tea-flower",
+      "bytes": 13769,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2888,
+          "triangles": 412,
+          "vertices": 297,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 2888,
+          "triangles": 390,
+          "vertices": 288,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 2888,
+          "triangles": 455,
+          "vertices": 306,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "flowering-quince",
+      "bytes": 13743,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4308,
+          "triangles": 415,
+          "vertices": 314,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 4308,
+          "triangles": 418,
+          "vertices": 311,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 4308,
+          "triangles": 349,
+          "vertices": 279,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "chocolate-cosmos",
+      "bytes": 15323,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2464,
+          "triangles": 476,
+          "vertices": 388,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 2464,
+          "triangles": 435,
+          "vertices": 327,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2464,
+          "triangles": 457,
+          "vertices": 317,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "bush-poppy",
+      "bytes": 11178,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1352,
+          "triangles": 343,
+          "vertices": 250,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1352,
+          "triangles": 368,
+          "vertices": 260,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 1352,
+          "triangles": 451,
+          "vertices": 289,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "tufted-poppy",
+      "bytes": 14765,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1844,
+          "triangles": 438,
+          "vertices": 346,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 1844,
+          "triangles": 429,
+          "vertices": 331,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 1844,
+          "triangles": 472,
+          "vertices": 310,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "common-rock-rose",
+      "bytes": 12031,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1468,
+          "triangles": 372,
+          "vertices": 230,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1468,
+          "triangles": 384,
+          "vertices": 242,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 1468,
+          "triangles": 471,
+          "vertices": 279,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "christmas-rose",
+      "bytes": 16086,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 5388,
+          "triangles": 455,
+          "vertices": 383,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 5388,
+          "triangles": 461,
+          "vertices": 366,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 5388,
+          "triangles": 457,
+          "vertices": 356,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "common-flax",
+      "bytes": 13489,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3432,
+          "triangles": 370,
+          "vertices": 291,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 3432,
+          "triangles": 371,
+          "vertices": 292,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 3432,
+          "triangles": 421,
+          "vertices": 317,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "missouri-primrose",
+      "bytes": 11431,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1288,
+          "triangles": 322,
+          "vertices": 221,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1288,
+          "triangles": 440,
+          "vertices": 271,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1288,
+          "triangles": 434,
+          "vertices": 275,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "wood-sorrel",
+      "bytes": 16032,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4296,
+          "triangles": 473,
+          "vertices": 394,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 4296,
+          "triangles": 429,
+          "vertices": 351,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 4296,
+          "triangles": 476,
+          "vertices": 366,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "himalayan-peony",
+      "bytes": 13574,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2204,
+          "triangles": 426,
+          "vertices": 283,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 2204,
+          "triangles": 403,
+          "vertices": 262,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 2204,
+          "triangles": 434,
+          "vertices": 310,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "fernleaf-peony",
+      "bytes": 11272,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4432,
+          "triangles": 430,
+          "vertices": 217,
+          "voxelSize": 0.1
+        },
+        "Half": {
+          "sourceTriangles": 4432,
+          "triangles": 464,
+          "vertices": 209,
+          "voxelSize": 0.12
+        },
+        "Full": {
+          "sourceTriangles": 4432,
+          "triangles": 354,
+          "vertices": 195,
+          "voxelSize": 0.145
+        }
+      }
+    },
+    {
+      "slug": "dog-rose",
+      "bytes": 13581,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3284,
+          "triangles": 369,
+          "vertices": 318,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 3284,
+          "triangles": 474,
+          "vertices": 363,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 3284,
+          "triangles": 398,
+          "vertices": 297,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "asphodelus-fistulosus",
+      "bytes": 10598,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1384,
+          "triangles": 226,
+          "vertices": 171,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1384,
+          "triangles": 352,
+          "vertices": 225,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1384,
+          "triangles": 475,
+          "vertices": 282,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "calycanthus-chinensis",
+      "bytes": 13556,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3268,
+          "triangles": 371,
+          "vertices": 299,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 3268,
+          "triangles": 340,
+          "vertices": 225,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 3268,
+          "triangles": 453,
+          "vertices": 292,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "amana-edulis",
+      "bytes": 16283,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 5256,
+          "triangles": 458,
+          "vertices": 409,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 5256,
+          "triangles": 449,
+          "vertices": 398,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 5256,
+          "triangles": 467,
+          "vertices": 408,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "rosa-banksiae",
+      "bytes": 13943,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 21020,
+          "triangles": 455,
+          "vertices": 340,
+          "voxelSize": 0.1
+        },
+        "Half": {
+          "sourceTriangles": 21020,
+          "triangles": 457,
+          "vertices": 328,
+          "voxelSize": 0.12
+        },
+        "Full": {
+          "sourceTriangles": 21020,
+          "triangles": 388,
+          "vertices": 233,
+          "voxelSize": 0.175
+        }
+      }
+    },
+    {
+      "slug": "coffea-arabica",
+      "bytes": 9763,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 10788,
+          "triangles": 413,
+          "vertices": 257,
+          "voxelSize": 0.145
+        },
+        "Half": {
+          "sourceTriangles": 10788,
+          "triangles": 413,
+          "vertices": 261,
+          "voxelSize": 0.145
+        },
+        "Full": {
+          "sourceTriangles": 10788,
+          "triangles": 431,
+          "vertices": 288,
+          "voxelSize": 0.145
+        }
+      }
+    },
+    {
+      "slug": "rudbeckia-hirta",
+      "bytes": 15219,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2744,
+          "triangles": 453,
+          "vertices": 319,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 2744,
+          "triangles": 408,
+          "vertices": 312,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 2744,
+          "triangles": 445,
+          "vertices": 333,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "linum-africanum",
+      "bytes": 11097,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1176,
+          "triangles": 265,
+          "vertices": 185,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1176,
+          "triangles": 405,
+          "vertices": 237,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1176,
+          "triangles": 446,
+          "vertices": 278,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "talinum-afrum",
+      "bytes": 10617,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1484,
+          "triangles": 264,
+          "vertices": 198,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1484,
+          "triangles": 374,
+          "vertices": 245,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1484,
+          "triangles": 395,
+          "vertices": 256,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "iris-domestica",
+      "bytes": 9911,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1252,
+          "triangles": 204,
+          "vertices": 168,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1252,
+          "triangles": 291,
+          "vertices": 201,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1252,
+          "triangles": 479,
+          "vertices": 279,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "delosperma-floribundum",
+      "bytes": 14785,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 5352,
+          "triangles": 468,
+          "vertices": 314,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 5352,
+          "triangles": 355,
+          "vertices": 251,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 5352,
+          "triangles": 479,
+          "vertices": 313,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "dianthus-barbatus",
+      "bytes": 14169,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 8056,
+          "triangles": 432,
+          "vertices": 368,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 8056,
+          "triangles": 382,
+          "vertices": 311,
+          "voxelSize": 0.1
+        },
+        "Full": {
+          "sourceTriangles": 8056,
+          "triangles": 465,
+          "vertices": 362,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "platycodon-grandiflorus",
+      "bytes": 14431,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 12016,
+          "triangles": 454,
+          "vertices": 314,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 12016,
+          "triangles": 479,
+          "vertices": 304,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 12016,
+          "triangles": 416,
+          "vertices": 276,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "aristea-africana",
+      "bytes": 14059,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3660,
+          "triangles": 403,
+          "vertices": 299,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 3660,
+          "triangles": 423,
+          "vertices": 300,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 3660,
+          "triangles": 422,
+          "vertices": 322,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "ixiolirion-songaricum",
+      "bytes": 15318,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4864,
+          "triangles": 358,
+          "vertices": 334,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 4864,
+          "triangles": 454,
+          "vertices": 410,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 4864,
+          "triangles": 430,
+          "vertices": 370,
+          "voxelSize": 0.055
+        }
+      }
+    },
+    {
+      "slug": "ceratostigma-plumbaginoides",
+      "bytes": 15291,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3480,
+          "triangles": 423,
+          "vertices": 356,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 3480,
+          "triangles": 455,
+          "vertices": 345,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 3480,
+          "triangles": 411,
+          "vertices": 325,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "adonis-vernalis",
+      "bytes": 10584,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 8532,
+          "triangles": 420,
+          "vertices": 202,
+          "voxelSize": 0.12
+        },
+        "Half": {
+          "sourceTriangles": 8532,
+          "triangles": 464,
+          "vertices": 232,
+          "voxelSize": 0.12
+        },
+        "Full": {
+          "sourceTriangles": 8532,
+          "triangles": 390,
+          "vertices": 221,
+          "voxelSize": 0.145
+        }
+      }
+    },
+    {
+      "slug": "arctotis-fastuosa",
+      "bytes": 14346,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 18318,
+          "triangles": 462,
+          "vertices": 333,
+          "voxelSize": 0.145
+        },
+        "Half": {
+          "sourceTriangles": 18318,
+          "triangles": 391,
+          "vertices": 295,
+          "voxelSize": 0.175
+        },
+        "Full": {
+          "sourceTriangles": 18318,
+          "triangles": 370,
+          "vertices": 263,
+          "voxelSize": 0.21
+        }
+      }
+    },
+    {
+      "slug": "catharanthus-roseus",
+      "bytes": 15978,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3408,
+          "triangles": 460,
+          "vertices": 360,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 3408,
+          "triangles": 465,
+          "vertices": 353,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 3408,
+          "triangles": 447,
+          "vertices": 346,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "cichorium-intybus",
+      "bytes": 14305,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2616,
+          "triangles": 379,
+          "vertices": 279,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 2616,
+          "triangles": 434,
+          "vertices": 289,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 2616,
+          "triangles": 476,
+          "vertices": 322,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "clarkia-pulchella",
+      "bytes": 13614,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3680,
+          "triangles": 392,
+          "vertices": 272,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 3680,
+          "triangles": 465,
+          "vertices": 307,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 3680,
+          "triangles": 405,
+          "vertices": 270,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "clarkia-unguiculata",
+      "bytes": 9790,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1288,
+          "triangles": 218,
+          "vertices": 189,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 1288,
+          "triangles": 297,
+          "vertices": 242,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 1288,
+          "triangles": 355,
+          "vertices": 281,
+          "voxelSize": 0.035
+        }
+      }
+    },
+    {
+      "slug": "dianthus-chinensis",
+      "bytes": 14870,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7832,
+          "triangles": 448,
+          "vertices": 369,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 7832,
+          "triangles": 408,
+          "vertices": 329,
+          "voxelSize": 0.1
+        },
+        "Full": {
+          "sourceTriangles": 7832,
+          "triangles": 466,
+          "vertices": 351,
+          "voxelSize": 0.12
+        }
+      }
+    },
+    {
+      "slug": "gardenia-jasminoides",
+      "bytes": 13583,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2784,
+          "triangles": 308,
+          "vertices": 261,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 2784,
+          "triangles": 429,
+          "vertices": 310,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 2784,
+          "triangles": 468,
+          "vertices": 345,
+          "voxelSize": 0.045
+        }
+      }
+    },
+    {
+      "slug": "gazania-rigens",
+      "bytes": 16375,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 8628,
+          "triangles": 425,
+          "vertices": 384,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 8628,
+          "triangles": 427,
+          "vertices": 390,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 8628,
+          "triangles": 435,
+          "vertices": 405,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "geranium-sanguineum",
+      "bytes": 16100,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4392,
+          "triangles": 446,
+          "vertices": 360,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 4392,
+          "triangles": 465,
+          "vertices": 362,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 4392,
+          "triangles": 468,
+          "vertices": 342,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "hesperis-matronalis",
+      "bytes": 14691,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 6132,
+          "triangles": 469,
+          "vertices": 380,
+          "voxelSize": 0.085
+        },
+        "Half": {
+          "sourceTriangles": 6132,
+          "triangles": 455,
+          "vertices": 365,
+          "voxelSize": 0.1
+        },
+        "Full": {
+          "sourceTriangles": 6132,
+          "triangles": 412,
+          "vertices": 330,
+          "voxelSize": 0.145
+        }
+      }
+    },
+    {
+      "slug": "hibiscus-trionum",
+      "bytes": 13459,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1984,
+          "triangles": 456,
+          "vertices": 316,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 1984,
+          "triangles": 388,
+          "vertices": 276,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 1984,
+          "triangles": 397,
+          "vertices": 283,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "jasminum-nudiflorum",
+      "bytes": 16243,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 6420,
+          "triangles": 426,
+          "vertices": 353,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 6420,
+          "triangles": 413,
+          "vertices": 369,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 6420,
+          "triangles": 429,
+          "vertices": 376,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "jatropha-integerrima",
+      "bytes": 14490,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 5376,
+          "triangles": 465,
+          "vertices": 358,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 5376,
+          "triangles": 458,
+          "vertices": 335,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 5376,
+          "triangles": 379,
+          "vertices": 304,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "lagerstroemia-indica",
+      "bytes": 12422,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2064,
+          "triangles": 271,
+          "vertices": 236,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 2064,
+          "triangles": 418,
+          "vertices": 318,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 2064,
+          "triangles": 375,
+          "vertices": 317,
+          "voxelSize": 0.055
+        }
+      }
+    },
+    {
+      "slug": "lewisia-rediviva",
+      "bytes": 15459,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 8544,
+          "triangles": 467,
+          "vertices": 349,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 8544,
+          "triangles": 441,
+          "vertices": 318,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 8544,
+          "triangles": 443,
+          "vertices": 316,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "lobularia-maritima",
+      "bytes": 9126,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 12396,
+          "triangles": 464,
+          "vertices": 241,
+          "voxelSize": 0.145
+        },
+        "Half": {
+          "sourceTriangles": 12396,
+          "triangles": 464,
+          "vertices": 241,
+          "voxelSize": 0.145
+        },
+        "Full": {
+          "sourceTriangles": 12396,
+          "triangles": 387,
+          "vertices": 230,
+          "voxelSize": 0.175
+        }
+      }
+    },
+    {
+      "slug": "lunaria-annua",
+      "bytes": 15005,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 5592,
+          "triangles": 469,
+          "vertices": 384,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 5592,
+          "triangles": 414,
+          "vertices": 362,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 5592,
+          "triangles": 397,
+          "vertices": 336,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "nemophila-menziesii",
+      "bytes": 11707,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1716,
+          "triangles": 322,
+          "vertices": 264,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 1716,
+          "triangles": 408,
+          "vertices": 301,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 1716,
+          "triangles": 395,
+          "vertices": 283,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "oxalis-versicolor",
+      "bytes": 17541,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 3408,
+          "triangles": 445,
+          "vertices": 403,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 3408,
+          "triangles": 458,
+          "vertices": 391,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 3408,
+          "triangles": 418,
+          "vertices": 347,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "passiflora-caerulea",
+      "bytes": 16343,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 6212,
+          "triangles": 442,
+          "vertices": 346,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 6212,
+          "triangles": 401,
+          "vertices": 332,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 6212,
+          "triangles": 461,
+          "vertices": 352,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "phlox-drummondii",
+      "bytes": 15372,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4528,
+          "triangles": 395,
+          "vertices": 323,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 4528,
+          "triangles": 465,
+          "vertices": 373,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 4528,
+          "triangles": 448,
+          "vertices": 356,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "phlox-subulata",
+      "bytes": 14857,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7888,
+          "triangles": 422,
+          "vertices": 342,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 7888,
+          "triangles": 450,
+          "vertices": 383,
+          "voxelSize": 0.085
+        },
+        "Full": {
+          "sourceTriangles": 7888,
+          "triangles": 445,
+          "vertices": 350,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "platystemon-californicus",
+      "bytes": 15113,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7968,
+          "triangles": 437,
+          "vertices": 357,
+          "voxelSize": 0.045
+        },
+        "Half": {
+          "sourceTriangles": 7968,
+          "triangles": 402,
+          "vertices": 351,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 7968,
+          "triangles": 424,
+          "vertices": 377,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "plumbago-auriculata",
+      "bytes": 13931,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 2288,
+          "triangles": 363,
+          "vertices": 280,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 2288,
+          "triangles": 423,
+          "vertices": 303,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 2288,
+          "triangles": 440,
+          "vertices": 310,
+          "voxelSize": 0.055
+        }
+      }
+    },
+    {
+      "slug": "prunus-avium",
+      "bytes": 15376,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7148,
+          "triangles": 473,
+          "vertices": 397,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 7148,
+          "triangles": 404,
+          "vertices": 348,
+          "voxelSize": 0.055
+        },
+        "Full": {
+          "sourceTriangles": 7148,
+          "triangles": 414,
+          "vertices": 363,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "prunus-cerasifera",
+      "bytes": 16088,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7228,
+          "triangles": 458,
+          "vertices": 391,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 7228,
+          "triangles": 472,
+          "vertices": 410,
+          "voxelSize": 0.045
+        },
+        "Full": {
+          "sourceTriangles": 7228,
+          "triangles": 389,
+          "vertices": 353,
+          "voxelSize": 0.07
+        }
+      }
+    },
+    {
+      "slug": "pulsatilla-vulgaris",
+      "bytes": 10309,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7272,
+          "triangles": 426,
+          "vertices": 211,
+          "voxelSize": 0.12
+        },
+        "Half": {
+          "sourceTriangles": 7272,
+          "triangles": 456,
+          "vertices": 241,
+          "voxelSize": 0.12
+        },
+        "Full": {
+          "sourceTriangles": 7272,
+          "triangles": 407,
+          "vertices": 241,
+          "voxelSize": 0.145
+        }
+      }
+    },
+    {
+      "slug": "rosa-moyesii",
+      "bytes": 15049,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 1900,
+          "triangles": 477,
+          "vertices": 340,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 1900,
+          "triangles": 461,
+          "vertices": 323,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 1900,
+          "triangles": 462,
+          "vertices": 311,
+          "voxelSize": 0.085
+        }
+      }
+    },
+    {
+      "slug": "rosa-multiflora",
+      "bytes": 15105,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 8228,
+          "triangles": 480,
+          "vertices": 376,
+          "voxelSize": 0.085
+        },
+        "Half": {
+          "sourceTriangles": 8228,
+          "triangles": 428,
+          "vertices": 342,
+          "voxelSize": 0.1
+        },
+        "Full": {
+          "sourceTriangles": 8228,
+          "triangles": 443,
+          "vertices": 350,
+          "voxelSize": 0.12
+        }
+      }
+    },
+    {
+      "slug": "rudbeckia-triloba",
+      "bytes": 15566,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 6444,
+          "triangles": 453,
+          "vertices": 389,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 6444,
+          "triangles": 423,
+          "vertices": 377,
+          "voxelSize": 0.085
+        },
+        "Full": {
+          "sourceTriangles": 6444,
+          "triangles": 395,
+          "vertices": 366,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "saponaria-officinalis",
+      "bytes": 14615,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 7888,
+          "triangles": 407,
+          "vertices": 348,
+          "voxelSize": 0.07
+        },
+        "Half": {
+          "sourceTriangles": 7888,
+          "triangles": 480,
+          "vertices": 432,
+          "voxelSize": 0.07
+        },
+        "Full": {
+          "sourceTriangles": 7888,
+          "triangles": 429,
+          "vertices": 349,
+          "voxelSize": 0.1
+        }
+      }
+    },
+    {
+      "slug": "scilla-bifolia",
+      "bytes": 14815,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4056,
+          "triangles": 365,
+          "vertices": 314,
+          "voxelSize": 0.035
+        },
+        "Half": {
+          "sourceTriangles": 4056,
+          "triangles": 465,
+          "vertices": 370,
+          "voxelSize": 0.035
+        },
+        "Full": {
+          "sourceTriangles": 4056,
+          "triangles": 477,
+          "vertices": 380,
+          "voxelSize": 0.055
+        }
+      }
+    },
+    {
+      "slug": "zinnia-elegans",
+      "bytes": 13848,
+      "stages": {
+        "Bud": {
+          "sourceTriangles": 4592,
+          "triangles": 411,
+          "vertices": 283,
+          "voxelSize": 0.055
+        },
+        "Half": {
+          "sourceTriangles": 4592,
+          "triangles": 359,
+          "vertices": 245,
+          "voxelSize": 0.085
+        },
+        "Full": {
+          "sourceTriangles": 4592,
+          "triangles": 423,
+          "vertices": 292,
+          "voxelSize": 0.1
+        }
+      }
+    }
+  ]
+}

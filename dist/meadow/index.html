@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#a3d86f">
+  <title>风过春野 · 手势花海</title>
+  <meta name="description" content="在午后草原上张开手掌，让春花沿着你的手势一簇簇盛开。">
+  <link rel="preload" as="image" href="./spring-grass.webp">
+  <link rel="stylesheet" href="./spring.css">
+  <script defer src="./hand-input.js"></script>
+  <script defer src="./hand-preview.js"></script>
+  <script defer src="./spring-field.js"></script>
+  <script defer src="./spring-camera.js"></script>
+  <script defer src="./spring-sound.js"></script>
+  <script defer src="./spring-view.js"></script>
+</head>
+<body>
+<main id="meadow" aria-labelledby="title">
+  <img class="landscape" alt="" src="./spring-grass.webp">
+  <canvas id="scenery" aria-hidden="true"></canvas>
+  <canvas id="field" tabindex="0" aria-label="互动草坪，按住拖动或按空格让一片花开放，点击花朵或按回车查看模型"></canvas>
+  <div id="light" aria-hidden="true"></div>
+  <header><h1 id="title">风过春野</h1><a class="glass atlas-link" href="../flowers/">花朵图鉴 <span>3D</span></a></header>
+  <aside id="handPreview" aria-label="手势轨迹" hidden>
+    <div class="trace-head"><strong>手势轨迹</strong><span>镜像</span></div>
+    <canvas width="320" height="240" aria-label="双手骨架和最近两秒的掌心轨迹"></canvas>
+    <div class="trace-legend"><span>开花</span><span>取景手</span><span>已捕捉</span></div>
+    <output aria-live="off"></output>
+  </aside>
+  <div class="toolbar">
+    <p id="status" role="status">张开手掌，或在草地上按住划动</p>
+    <div class="tools glass">
+      <button id="camera" type="button" aria-pressed="false">开启手势</button>
+      <details id="roles"><summary>双手分工</summary><div class="role-panel">
+        <label for="viewHand">手势分工</label><select id="viewHand"><option value="bloomFirst" selected>先举开花手</option><option value="auto">先举视角手</option><option value="Left">左手取景</option><option value="Right">右手取景</option></select>
+        <p id="roleHint"></p><p>开花手抬高到山坡，放低到近草，浅色光圈标出落点。双手一起移动时，视角手上移望向远坡、下移返回，左右移动环视，张合缩放，前后移动调节远近。</p>
+        <div class="angle-row"><label for="bearing">环视方向</label><output id="degrees" for="bearing">0°</output></div>
+        <input id="bearing" type="range" min="0" max="360" step="1" value="0" aria-label="360度环视方向">
+        <div class="angle-row"><label for="focus">远坡取景</label><output id="focusValue" for="focus">0%</output></div>
+        <input id="focus" type="range" min="0" max="100" value="0" aria-label="远坡取景">
+        <button id="homeView" type="button">视角回正</button>
+      </div></details>
+      <button id="lookFar" type="button">望向远坡</button>
+      <button id="ambience" type="button" aria-pressed="false">开启环境声</button>
+      <label class="time"><span aria-hidden="true">☼</span><select id="time" aria-label="光照时段">
+        <option value="afternoon" selected>午后</option><option value="day">白天</option><option value="dusk">黄昏</option><option value="auto">设备时间</option>
+      </select></label>
+      <button id="reset" type="button" disabled>重置草坪</button>
+    </div>
+  </div>
+</main>
+<dialog id="specimen" aria-labelledby="flowerName">
+  <div class="sheet-heading"><div><h2 id="flowerName"></h2><i id="latin"></i></div><button type="button" id="closeSheet" autofocus>返回草坪</button></div>
+  <p id="flowerMeta"></p><p id="flowerStory"></p>
+  <div id="modelSlot"></div><a id="fullSpecimen">打开完整图鉴</a>
+</dialog>
+</body>
+</html>

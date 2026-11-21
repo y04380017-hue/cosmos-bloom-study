@@ -1,0 +1,62 @@
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;overflow:hidden}
+body{font:1rem/1.4 "Source Sans 3","PingFang SC","Microsoft YaHei",sans-serif;color:#183f41;background:#afd778}
+#meadow{position:relative;isolation:isolate;width:100%;height:100%;height:100dvh;overflow:hidden;background:linear-gradient(#58b5ee 0%,#b5edfb 36%,#a6db69 40%,#a6d166 100%)}
+.landscape{position:absolute;left:50%;top:0;width:max(100%,177.68vh);width:max(100%,177.68dvh);height:100%;max-width:none;transform:translateX(-50%);pointer-events:none;user-select:none}
+#field,#light{position:absolute;inset:0;width:100%;height:100%}
+#field{touch-action:none;cursor:crosshair;outline-offset:-4px}
+#light{pointer-events:none;background:rgba(255,224,161,.03);transition:background 1.6s}
+header{position:absolute;inset:max(1.35rem,env(safe-area-inset-top)) max(1.65rem,env(safe-area-inset-right)) auto max(1.65rem,env(safe-area-inset-left));display:flex;align-items:center;justify-content:space-between;pointer-events:none}
+h1{font:500 clamp(1.5rem,3vw,2.7rem)/1.2 "Source Han Serif SC","Songti SC","Noto Serif CJK SC",serif;letter-spacing:.14em;margin:0;color:#fffefa;text-shadow:0 1px 6px #2a679788}
+.glass{background:rgba(255,254,243,.93);box-shadow:0 3px 18px #3548241c;border:1px solid #ffffffe0;border-radius:2rem}
+.atlas-link{display:flex;align-items:center;gap:.58rem;padding:.55rem .9rem;color:#294b46;font-size:.93rem;text-decoration:none;pointer-events:auto}
+.atlas-link span{font:600 .76rem/1 monospace;letter-spacing:.07em;color:#50716c}
+.toolbar{position:absolute;bottom:max(1.5rem,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);display:grid;justify-items:center;gap:.48rem;max-width:95vw;pointer-events:none}
+#status{width:max-content;max-width:min(90vw,36rem);text-align:center;font-size:.9rem;font-weight:500;line-height:1.45;color:#fff;margin:0;background:#294c40b3;border-radius:1rem;padding:.28rem .78rem;text-shadow:0 1px 2px #33583c}
+.tools{display:flex;align-items:center;gap:.23rem;padding:.28rem;pointer-events:auto;white-space:nowrap}
+button,select{font:inherit;font-size:.93rem;color:inherit;cursor:pointer}
+button{min-height:2.6rem;background:transparent;border:none;border-radius:1.5rem;padding:.48rem .84rem}
+button:disabled{opacity:.5;cursor:default}
+button:enabled:hover,.atlas-link:hover{background:#f5f7d9}
+#camera{background:#335b49;color:#fff}#camera:hover{background:#284d3f}
+.time{display:flex;align-items:center;gap:.12rem;padding-left:.46rem}
+.time span{font-size:1.15rem;color:#ad712c}
+select{border:0;background:transparent;border-radius:.25rem;padding:.4rem .1rem}
+:focus-visible{outline:2px solid #315e9c;outline-offset:2px}
+@media(max-width:520px){header{left:1rem;right:1rem}.toolbar{bottom:max(1rem,env(safe-area-inset-bottom))}}
+@media(prefers-reduced-motion:reduce){#light{transition:none}}
+#scenery{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+#roles{position:relative}
+#roles summary{list-style:none;cursor:pointer;padding:.65rem .42rem;font-size:.93rem}
+#roles summary::-webkit-details-marker{display:none}
+.role-panel{position:absolute;bottom:calc(100% + 2.85rem);left:50%;transform:translateX(-50%);width:min(19rem,90vw);padding:1rem 1.15rem;background:#fffff7;color:#284938;border-radius:1rem;box-shadow:0 8px 32px #223b3433;white-space:normal}
+.role-panel p{font-size:.9rem;line-height:1.6;margin:.45rem 0}
+.role-panel label{font-weight:600;margin-right:.6rem}
+.role-panel select,#homeView{background:#ecf1df}#homeView{min-height:2.05rem}
+#specimen{width:min(35rem,94vw);max-height:92dvh;overflow:auto;padding:1rem 1.2rem;border:0;border-radius:1.2rem;background:#fffef6;color:#2b473b;box-shadow:0 14px 65px #152f3950}
+#specimen::backdrop{background:#203d3f66}
+.sheet-heading{display:flex;align-items:center;justify-content:space-between;gap:.7rem}
+.sheet-heading h2{margin:0;font:500 1.65rem/1.3 "Songti SC",serif}
+.sheet-heading i{font:italic .96rem/1.4 Georgia,serif;color:#586e5a}
+#closeSheet{background:#e5efdf}
+#flowerMeta{font-size:.9rem;color:#546650;margin:.6rem 0 .25rem}
+#flowerStory{margin:.25rem 0 .6rem;line-height:1.5}
+#modelSlot iframe{display:block;border:0;width:100%;height:min(49dvh,24rem);border-radius:.65rem}
+#fullSpecimen{display:inline-block;margin-top:.55rem;color:#3d624e;font-size:.9rem}
+@media(max-width:420px){.tools{gap:0}.tools button,.tools summary{font-size:.86rem;padding-inline:.5rem}.time{padding-left:.1rem}.role-panel{left:45%}}
+.angle-row{display:flex;align-items:center;justify-content:space-between;margin-top:.6rem}
+#degrees{font-variant-numeric:tabular-nums;color:#567057}
+#bearing,#focus{width:100%;accent-color:#507553;margin:.4rem 0 .8rem}
+#ambience[aria-pressed=true]{background:#e1eccd}
+@media(max-width:560px){.tools{flex-wrap:wrap;justify-content:center;max-width:94vw;width:max-content;border-radius:1.15rem}.role-panel{position:fixed;bottom:calc(100% + .5rem);left:50%;max-height:60dvh;overflow:auto;transform:translateX(-50%)}}
+#handPreview{position:absolute;top:calc(max(1.35rem,env(safe-area-inset-top)) + 3.2rem);right:max(1.65rem,env(safe-area-inset-right));width:clamp(9rem,18vw,14rem);padding:.55rem;color:#eff7ec;background:rgba(28,55,49,.93);border:1px solid #e5f0de80;border-radius:.85rem;box-shadow:0 .2rem .9rem #223e4526;pointer-events:none}
+.trace-head,.trace-legend{display:flex;align-items:center;gap:.6rem}
+.trace-head{justify-content:space-between;margin:0 .1rem .35rem}
+.trace-head strong{font-size:.92rem}.trace-head span,.trace-legend{font-size:.75rem}
+#handPreview canvas{display:block;width:100%;height:auto;background:#213b36;border-radius:.36rem}
+.trace-legend{margin:.35rem 0 .2rem;flex-wrap:wrap;gap:.18rem .5rem}
+.trace-legend span::before{content:'';display:inline-block;width:.45rem;height:.45rem;border-radius:50%;background:#ffb8cb;margin-right:.24rem}
+.trace-legend span:nth-child(2)::before{background:#8cedf2}.trace-legend span:nth-child(3)::before{background:#e6e9d9}
+#handPreview output{display:block;font-size:.82rem;line-height:1.35}
+@media(max-width:520px){#handPreview{right:1rem}}
+@media(max-height:450px){#handPreview{width:8rem;top:3.9rem}}
